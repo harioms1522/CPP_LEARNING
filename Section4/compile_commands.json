@@ -1,0 +1,29 @@
+[{
+  "file": "/home/hariom/study/cpp/Section4/ChallengeSolution/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/ChallengeSolution",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/ChallengeSolution/main.cpp -o /home/hariom/study/cpp/Section4/ChallengeSolution/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/LinkerError/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/LinkerError",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/LinkerError/main.cpp -o /home/hariom/study/cpp/Section4/LinkerError/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/CompilerErrors/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/CompilerErrors",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/CompilerErrors/main.cpp -o /home/hariom/study/cpp/Section4/CompilerErrors/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/FirstProgram/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/FirstProgram",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/FirstProgram/main.cpp -o /home/hariom/study/cpp/Section4/FirstProgram/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/CompilerWarnings/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/CompilerWarnings",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/CompilerWarnings/main.cpp -o /home/hariom/study/cpp/Section4/CompilerWarnings/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -pedantic-errors  -g  -O0  -pedantic  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/Project2/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/Project2",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/Project2/main.cpp -o /home/hariom/study/cpp/Section4/Project2/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/hariom/study/cpp/Section4/Project1/main.cpp",
+  "directory": "/home/hariom/study/cpp/Section4/Project1",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/Section4/Project1/main.cpp -o /home/hariom/study/cpp/Section4/Project1/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]

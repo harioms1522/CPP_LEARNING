@@ -1,0 +1,5 @@
+[{
+  "file": "/home/hariom/study/cpp/workspaces/DefaultProjectWorkSpaceForCodelite/DefaultProjectForCodelite/main.cpp",
+  "directory": "/home/hariom/study/cpp/workspaces/DefaultProjectWorkSpaceForCodelite/DefaultProjectForCodelite",
+  "command": "/usr/bin/g++ -c /home/hariom/study/cpp/workspaces/DefaultProjectWorkSpaceForCodelite/DefaultProjectForCodelite/main.cpp -o /home/hariom/study/cpp/workspaces/DefaultProjectWorkSpaceForCodelite/DefaultProjectForCodelite/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
